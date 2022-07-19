@@ -10,11 +10,11 @@ Resolucion de ejercicios del capitulo 11 y 12 de principio de circuitos electric
 
 **Objetivos:** 
 
-- Saber resolver problemas tanto del capitulo 9 como del capitulo 10.
+- Saber resolver problemas tanto del capitulo 11 como del capitulo 12.
 
-- Comprender el efecto del magnetismo sobre los circuitos electricos.
+- Comprender como es el comportamiento de las ondas en un circuito electrico, sabiendo que las ondas estan en funcion del tiempo.
 
-- Saber usar correctamente la calculadora a la hora de resolver corrientes con bastantes tipos de estos usando matrices.
+- Resolver ejercicios con relacion a los capacitores, en la cual existen en corriende directo como tambien en corriente alterna.
 
 **Marco teorico:** 
 
@@ -84,11 +84,9 @@ Capitulo 12:
  
  **Conclusiones:**
  
- a) La resolucion del capitulo 9 ayudo a saber el comportamiento de las corrientes y voltajes en un sistema de ecuaciones para asi poder resolverlos mediante matrices, determinantes entre otros metodos, como tambien ayudo en el manejo correcto de la calculadora al ingresar datos de las corrientes como tambien de los voltajes requeridos.
+ a) Saber el comportamiento de la ondas senoidales puede ayudar a tener una nocion grafica como tambien fisica de como es el comportamiento del circuito analizado.
  
- b) En el capitulo 10 se pudo comprender el formulas y comportamientos sobre lo que es magnetismo y su resolucionl, como tambien lo que se refiere a induccion electromagnetica.
- 
- c) Se pudo saber como es la potencia en un circuito en paralelo, locaclizacion de fallas y aplicaciones que existen en este circuito antes mencionado.
+ b) En la resolucion del capitulo 12 exisate nuevos componentes los cuales son los capacitos el cual existen fijos como tambien variables en funcion del tiempo, resolver estos ejercicios ayuda a tener un mejor entendimiento de lo que es un capacitor y como resolverlos dependiendo de cada circuito.
  
   **Bibliografia:**
   
