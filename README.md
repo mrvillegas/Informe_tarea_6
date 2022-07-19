@@ -66,3 +66,31 @@ Capitulo 12:
 
 ![1](https://github.com/mrvillegas/Informe_tarea_6/blob/main/tarea6_completa_13.jpg)
 
+![1](https://github.com/mrvillegas/Informe_tarea_6/blob/main/tarea6_completa_14.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea_6/blob/main/tarea6_completa_15.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea_6/blob/main/tarea6_completa_16.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea_6/blob/main/tarea6_completa_17.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea_6/blob/main/tarea6_completa_18.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea_6/blob/main/tarea6_completa_19.jpg)
+
+**Video:**
+ 
+ https://www.youtube.com/watch?v=z_HowBJcUZ8
+ 
+ **Conclusiones:**
+ 
+ a) La resolucion del capitulo 9 ayudo a saber el comportamiento de las corrientes y voltajes en un sistema de ecuaciones para asi poder resolverlos mediante matrices, determinantes entre otros metodos, como tambien ayudo en el manejo correcto de la calculadora al ingresar datos de las corrientes como tambien de los voltajes requeridos.
+ 
+ b) En el capitulo 10 se pudo comprender el formulas y comportamientos sobre lo que es magnetismo y su resolucionl, como tambien lo que se refiere a induccion electromagnetica.
+ 
+ c) Se pudo saber como es la potencia en un circuito en paralelo, locaclizacion de fallas y aplicaciones que existen en este circuito antes mencionado.
+ 
+  **Bibliografia:**
+  
+  Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
+
